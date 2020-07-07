@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NFC_3level_ATM_Machine_Application</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="ok_writing">I HAVE WRITTEN YOUR ENCRYPTED DATA INTO TAG!!</string>
+    <string name="title_activity_branch">Branch</string>
+
+</resources>
