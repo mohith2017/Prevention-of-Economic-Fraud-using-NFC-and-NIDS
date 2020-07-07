@@ -24,7 +24,7 @@ Following are the advantages of using NIDS as an extra layer for detection:<br><
 ●	Prevent loss of sensitive information<br>
 ●	It can boost efficiency<br><br>
 
-The files for this part of the project are 'KNN_Detection_Start.py' -NIDS algorithm .<br><br>
+The files for this part of the project are 'KNN_Detection_Start.py' & 'Decision_tree_binary' -NIDS algorithm, 'UNSW_NB15_test-set' & 'UNSW_NB15_training-set' - Test and train datasets and remaining files are related to description of the dataset.<br><br>
 
 ## Team:
 [Mohith Manohar](https://github.com/mohith2017)<br>
