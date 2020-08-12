@@ -26,6 +26,10 @@ Following are the advantages of using NIDS as an extra layer for detection:<br><
 
 The files for this part of the project are 'KNN_Detection_Start.py' & 'Decision_tree_binary' -NIDS algorithm, 'UNSW_NB15_test-set' & 'UNSW_NB15_training-set' - Test and train datasets and remaining files are related to description of the dataset.<br><br>
 
+## Update Aug 2020
+
+Final ML-IDS KNN model was created with a 98% accuracy with k=2. The files are sorted and placed in 'Data Cleanup basic' and 'ML-IDS KNN' respectively. 
+
 ## Team:
 [Mohith Manohar](https://github.com/mohith2017)<br>
 [Harsh Jaiswal]()<br>
